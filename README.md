@@ -48,7 +48,7 @@ Dataset Source: [Kaggle - Factors Affecting Campus Placement](https://www.kaggle
 
 ---
 
-## 🧠 Work Done by Me (Anirudh K)
+## 🧠 Work Done by Me 
 
 - Improved data visualization section  
 - Added conclusion section  
@@ -63,5 +63,5 @@ This project demonstrates how machine learning can assist in predicting campus p
 
 ---
 
-📚 **Submitted by:** Anirudh K  
+📚 **Submitted by:** 
 🎯 Machine Learning Assignment | College Project | 2025
